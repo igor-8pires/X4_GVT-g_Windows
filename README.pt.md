@@ -5,6 +5,15 @@
   </a>
 </p>
 
+# Resultados
+
+##
+<p align="center">
+  <a href= "Images/image.png">
+  <img src="Images/image.png">
+</p>
+
+##
 # Ativação de SR-IOV para GPU da Radxa X4 e Looking Glass
 
 Este projeto detalha o processo de ativação do **SR-IOV (Single-Root I/O Virtualization)** na **iGPU (GPU integrada)** da placa **Radxa X4**. O objetivo é criar uma **VF (Virtual Function)** para fazer o **passthrough** dessa GPU para uma máquina virtual (VM) **Windows**. A VM é então utilizada para executar jogos e aplicativos gráficos, e a saída de vídeo é capturada e exibida na máquina host Linux usando a ferramenta **Looking Glass**.
